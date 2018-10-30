@@ -1,0 +1,11 @@
+C:\Users\ricardos\Desktop\ProjetosC#\emailservice\bin\Debug\netcoreapp2.0\emailservice.deps.json
+C:\Users\ricardos\Desktop\ProjetosC#\emailservice\bin\Debug\netcoreapp2.0\emailservice.runtimeconfig.json
+C:\Users\ricardos\Desktop\ProjetosC#\emailservice\bin\Debug\netcoreapp2.0\emailservice.runtimeconfig.dev.json
+C:\Users\ricardos\Desktop\ProjetosC#\emailservice\bin\Debug\netcoreapp2.0\emailservice.dll
+C:\Users\ricardos\Desktop\ProjetosC#\emailservice\bin\Debug\netcoreapp2.0\emailservice.pdb
+C:\Users\ricardos\Desktop\ProjetosC#\emailservice\obj\Debug\netcoreapp2.0\emailservice.csprojAssemblyReference.cache
+C:\Users\ricardos\Desktop\ProjetosC#\emailservice\obj\Debug\netcoreapp2.0\emailservice.csproj.CoreCompileInputs.cache
+C:\Users\ricardos\Desktop\ProjetosC#\emailservice\obj\Debug\netcoreapp2.0\emailservice.AssemblyInfoInputs.cache
+C:\Users\ricardos\Desktop\ProjetosC#\emailservice\obj\Debug\netcoreapp2.0\emailservice.AssemblyInfo.cs
+C:\Users\ricardos\Desktop\ProjetosC#\emailservice\obj\Debug\netcoreapp2.0\emailservice.dll
+C:\Users\ricardos\Desktop\ProjetosC#\emailservice\obj\Debug\netcoreapp2.0\emailservice.pdb

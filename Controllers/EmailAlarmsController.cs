@@ -20,7 +20,8 @@ namespace emailservice.Controllers{
         
         [HttpPost()]
         public async Task<IActionResult> Get([FromBody] Alarm alarm){
-           await iEnviaEmail.enviaEmail(alarm);
+           Console.WriteLine(alarm.thingId); 
+           await iEnviaEmail.enviaEmail(alarm);           
            return Ok("Email enviado");
         }       
     }
